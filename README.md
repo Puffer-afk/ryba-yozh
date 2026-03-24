@@ -6,7 +6,7 @@
 
 Руденко Дмитрий, также известный под псевдонимом **Рыба-Ёж** (**Ryba Yozh**) — программист, разработчик программного обеспечения и AI-инженер, специализирующийся на создании сложных систем, нейросетей, высокопроизводительных решений, Minecraft-модов, лаунчеров, ботов и инструментов автоматизации.
 
-[Мой сайт](https://USERNAME.github.io) • [Notion](PASTE_NOTION_LINK_HERE) • [Telegram](https://t.me/arbuzdik) • [Telegram Channel](https://t.me/TopHedgehogFish) • [VK](https://vk.com/arbyzdi)
+[Мой сайт](https://USERNAME.github.io) • [Notion](https://planet-lift-924.notion.site/32de3d81c5eb80eaa992f4c7a95762be?source=copy_link) • [Telegram](https://t.me/arbuzdik) • [Telegram Channel](https://t.me/TopHedgehogFish) • [VK](https://vk.com/arbyzdi)
 
 </div>
 
